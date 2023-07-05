@@ -1,14 +1,20 @@
 # Visitor-Guidance-and-Tracking-System
-Objectives
+
+# Objectives
+
 • To maintain visitor guidance tracking system for big premises, industries, 
-hospital etc. 
+hospital etc.
+
 • To overcome the difficulties of reaching destination in larger premises.
+
 • To keep record of no. of visitors, instead of writing the data or record of an 
 individual in a book hence it reduces the “LABOUR WORK”.
+
 • To maintain the security of the organisation by tracking the person’s exact 
 location on the premise map and keeping the record of each visitor
 
 # Algorithm for Visitor guidance and tracking system
+
 1. Start
 2. Initialize Controller, LCD display and GSM module.
 3. User shows his ID card to RFID reader at gate.
